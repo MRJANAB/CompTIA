@@ -1,0 +1,11 @@
+All the Resources for
+# CompTIA A+ (220-1001 and 220-1002)
+# CompTIA Network+ (N10-007)
+# CompTIA Security+ (SY0-601)
+# CompTIA Server+ (SK0-004)
+# CompTIA Linux+ (XK0-004)
+# CompTIA Cloud+ (CV0-002)
+# CompTIA Project+ (PK0-004)
+# CompTIA PenTest+ (PT0-001)
+# CompTIA CySA+ (CS0-002)
+# CompTIA CASP+ (CAS-003)
